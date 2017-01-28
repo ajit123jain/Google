@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_1a0f01428cb642e8eca669d5c45ed21d1fe415ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_5dcdce0983f8e5a910bb90d44615d876eb11872e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_5dfb71537670dc1dff96bccfab3a3c4c0a77cc3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_812cb47d742cba87354efce77c3b59455d186e4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02099ceb614c1f614882ac369b1efe8ee870d3ec">
+        <dex dex="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d7fe428085c5ab72f774d99c752abe0f70a3f56e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_018ea4340235079151cbee4b7d9ccb6dd3f2ba1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_cc402d83f238f660aa9e126edc9ee3dac4f3cac9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajit/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_56399b725edbbaefc7cc20e36a559b3c0cc9709a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="188fb8619361590a9aa23f2d849aaaec6b70492b">
+        <dex dex="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/pre-dexed/debug/instant-run_41918121b1c2a504215348bfe37d85f26ea60044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_b5a8fff18693358d02e3dbe003a46e59a2ef1dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_d6f4a5cae7942f181efb694aa8c1b5dc53b80b04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/ajit/AndroidStudioProjects/Google/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_59b869d142ca31e9d71cebac6be1fda67b2149f5.jar" />
+    </item>
+
+</items>
